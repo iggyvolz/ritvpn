@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo openconnect -s /etc/vpnc/vpnc-script vpn.rit.edu
